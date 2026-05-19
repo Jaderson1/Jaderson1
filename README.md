@@ -1,4 +1,4 @@
-# Olá! Eu sou o Jaderson Olson
+# Olá! Eu sou o Jaderson Manoel Lichtnow Olson
 
 Desenvolvedor Back-End focado em APIs, mensageria e soluções escaláveis.  
 Estudante de Ciência da Computação  
