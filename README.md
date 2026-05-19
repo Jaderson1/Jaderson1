@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! Eu sou o Jaderson Olson
 
-<!--
-**Jaderson1/Jaderson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Back-End focado em APIs, mensageria e soluções escaláveis.  
+Estudante de Ciência da Computação  
+Foz do Iguaçu - PR, Brasil  
 
-Here are some ideas to get you started:
+Atualmente atuando no Itaipu Parquetec com desenvolvimento backend utilizando FastAPI, Dash e Postgres
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 👨‍💻 Back-End
+- Python
+- Java
+- Node.js
+- APIs REST
+- JWT Authentication
+
+### ⚡ Frameworks & Bibliotecas
+- FastAPI
+- Spring Boot
+- Dash
+
+### 🗄️ Banco de Dados
+- PostgreSQL
+- MySQL
+
+### 📨 Mensageria
+- RabbitMQ
+
+### ⚙️ DevOps & Infra
+- Docker
+- Docker Compose
+- Terraform
+- Ansible
+- CI/CD
+
+### 🎨 Front-End (básico)
+- HTML
+- CSS
+- JavaScript
+- React
+
+### 🛠️ Ferramentas
+- Git & GitHub
+- Testes Automatizados
