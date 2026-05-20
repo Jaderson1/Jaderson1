@@ -36,7 +36,7 @@ Atualmente atuando no Itaipu Parquetec com desenvolvimento backend utilizando Fa
 - Ansible
 - CI/CD
 
-### 🎨 Front-End (básico)
+### 🎨 Front-End
 - HTML
 - CSS
 - JavaScript
