@@ -13,14 +13,7 @@ Atualmente atuando no Itaipu Parquetec com desenvolvimento backend utilizando Fa
 ### 👨‍💻 Back-End
 - Python
 - Java
-- Node.js
-- APIs REST
-- JWT Authentication
-
-### ⚡ Frameworks & Bibliotecas
-- FastAPI
-- Spring Boot
-- Dash
+- Dotnet (C#)
 
 ### 🗄️ Banco de Dados
 - PostgreSQL
@@ -28,13 +21,6 @@ Atualmente atuando no Itaipu Parquetec com desenvolvimento backend utilizando Fa
 
 ### 📨 Mensageria
 - RabbitMQ
-
-### ⚙️ DevOps & Infra
-- Docker
-- Docker Compose
-- Terraform
-- Ansible
-- CI/CD
 
 ### 🎨 Front-End
 - HTML
