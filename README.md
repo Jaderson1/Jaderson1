@@ -1,14 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06B6D4&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Ola!+Eu+sou+o+Jaderson+Olson;Back-end+Developer+em+evolucao+constante;De+Slime+a+Full+Stack+Dev;Great+Sage+aprovou+este+commit)](https://github.com/Jaderson1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06B6D4&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Ola!+Eu+sou+o+Jaderson+Olson;Full+Stack+Developer+em+evolucao+constante;Python,+FastAPI,+React+e+TypeScript+no+dia+a+dia;Sempre+testando,+sempre+commitando)](https://github.com/Jaderson1)
 
 </div>
 
 # 👋 Olá! Sou o Jaderson Manoel Lichtnow Olson
 
-> *"Um slime não nasce sabendo tudo — ele evolui a cada skill absorvida."* — inspirado em Rimuru Tempest, de *Tensei Shitara Slime Datta Ken*
-
-Desenvolvedor Back-End focado em APIs, mensageria e soluções escaláveis — assim como um bom slime, absorvo tecnologia nova por onde passo.
+Desenvolvedor Full Stack focado em APIs, interfaces modernas e soluções escaláveis.
 
 - 🎓 Estudante de Ciência da Computação
 - 📍 Foz do Iguaçu - PR, Brasil
@@ -18,13 +16,7 @@ Desenvolvedor Back-End focado em APIs, mensageria e soluções escaláveis — a
 
 ## 🧬 Evolução
 
-| Estágio (Rimuru Tempest) | Estágio (Jaderson) |
-|---|---|
-| 🫧 Desperta como slime numa caverna escura | Primeiros scripts em Python, sem saber bem o que fazia |
-| 🧠 Unique Skill *"Great Sage"* desperta | Descobre o FastAPI e começa a construir APIs de verdade |
-| 🍽️ Unique Skill *"Predator"* evolui e devora tudo | Absorve React, TypeScript, Docker, Terraform... o repertório só cresce |
-| 🏯 Funda a Jura Tempest Federation | Hoje: dev back-end na Itaipu Parquetec, construindo o **Fluida** |
-| 👑 Torna-se Demon Lord | Meta atual: vaga Jr Full Stack (Python + React) |
+Comecei escrevendo meus primeiros scripts em Python, sem entender muito bem o que estava fazendo. Depois descobri o FastAPI e passei a construir APIs de verdade — e daí não parei mais: fui absorvendo React, TypeScript, Docker, Terraform e Ansible pelo caminho. Hoje atuo como desenvolvedor Full Stack, construindo APIs geoespaciais na Itaipu Parquetec e desenvolvendo o **Fluida** nas horas vagas.
 
 ---
 
@@ -73,7 +65,6 @@ Desenvolvedor Back-End focado em APIs, mensageria e soluções escaláveis — a
 ## 🏯 Projetos em destaque
 
 - **[Fast_zero](https://github.com/Jaderson1/Fast_zero)** — primeiro projeto usando FastAPI
-- **[portfolio-manager](https://github.com/Jaderson1/portfolio-manager)** — sistema de gestão de portfólio em Java
 - **Fluida** *(em construção 🚧)* — motor de layout adaptativo open-source e framework-agnostic para React e Dash
 
 ---
@@ -93,5 +84,5 @@ Desenvolvedor Back-End focado em APIs, mensageria e soluções escaláveis — a
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaderson1)
 
 <div align="center">
-<sub>🟦 Feito com magicules e muito café</sub>
+<sub>🟦 Feito com café e muito debug</sub>
 </div>
