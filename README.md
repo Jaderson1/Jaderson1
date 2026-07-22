@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06B6D4&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Ola!+Eu+sou+o+Jaderson+Olson;Full+Stack+Developer+em+evolucao+constante;Python,+FastAPI,+React+e+TypeScript+no+dia+a+dia;Sempre+testando,+sempre+commitando)](https://github.com/Jaderson1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06B6D4&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Ola!+Eu+sou+o+Jaderson+Olson;Full+Stack+Developer+em+evolucao+constante;De+Slime+a+Full+Stack+Dev;Great+Sage+aprovou+este+commit)](https://github.com/Jaderson1)
 
 </div>
 
@@ -66,15 +66,6 @@ Comecei escrevendo meus primeiros scripts em Python, sem entender muito bem o qu
 
 - **[Fast_zero](https://github.com/Jaderson1/Fast_zero)** — primeiro projeto usando FastAPI
 - **Fluida** *(em construção 🚧)* — motor de layout adaptativo open-source e framework-agnostic para React e Dash
-
----
-
-## 📊 Status
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jaderson1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaderson1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
 ---
 
