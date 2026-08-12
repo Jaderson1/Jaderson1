@@ -10,7 +10,7 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e soluções escal�
 
 - 🎓 Estudante de Ciência da Computação
 - 📍 Foz do Iguaçu - PR, Brasil
-- 🏢 Estagiando na **Itaipu Parquetec**), construindo APIs geoespaciais com FastAPI, PostGIS e Redis
+- 🏢 Estagiando na **Itaipu Parquetec**, construindo APIs geoespaciais com FastAPI, PostGIS e Redis
 
 ---
 
