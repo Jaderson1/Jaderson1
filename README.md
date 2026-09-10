@@ -4,6 +4,13 @@
 
 **Full-Stack · APIs · Geoprocessamento**
 
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Jaderson1&custom_title=GitHub+Stats&show_icons=true&hide_rank=true&hide=stars,issues,contribs&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" height="160" alt="Estatísticas do GitHub" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jaderson1&layout=compact&langs_count=5&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&text_color=C7D8EA" height="160" alt="Linguagens mais usadas" />
+
+<br><br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1B33?style=flat-square&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/jadersonolson/)
 [![GitHub](https://img.shields.io/badge/GitHub-0E1B33?style=flat-square&logo=github&logoColor=4FC3F7)](https://github.com/Jaderson1)
 
@@ -49,10 +56,5 @@ Certificado Oracle Cloud Infrastructure Foundations.
 <img src="https://img.shields.io/badge/RabbitMQ-0E1B33?style=flat-square&logo=rabbitmq&logoColor=1E5F9E" alt="RabbitMQ" />
 <img src="https://img.shields.io/badge/Linux-0E1B33?style=flat-square&logo=linux&logoColor=1E5F9E" alt="Linux" />
 <img src="https://img.shields.io/badge/GitLab-0E1B33?style=flat-square&logo=gitlab&logoColor=1E5F9E" alt="GitLab" />
-
-<br><br>
-
-<img src="https://github-stats-extended.vercel.app/api?username=Jaderson1&show_icons=true&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" height="160" alt="Estatísticas do GitHub" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jaderson1&layout=compact&langs_count=5&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&text_color=C7D8EA" height="160" alt="Linguagens mais usadas" />
 
 </div>
