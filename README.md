@@ -16,28 +16,6 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e soluções escal�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Jaderson1">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Jaderson1&show_icons=true&include_all_commits=true&count_private=true&rank_icon=default&theme=radical"
-  />
-</a>
-
-<a href="https://github.com/Jaderson1">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaderson1&layout=compact&langs_count=6&theme=radical"
-  />
-</a>
-
-</div>
-
----
-
 ## 🧬 Evolução
 
 Comecei escrevendo meus primeiros scripts em Python, sem entender muito bem o que estava fazendo. Depois descobri o FastAPI e passei a construir APIs de verdade — e daí não parei mais: fui absorvendo React, TypeScript, Docker, Terraform e Ansible pelo caminho.
