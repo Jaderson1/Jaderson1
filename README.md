@@ -30,9 +30,17 @@ Atualmente trabalho principalmente com **FastAPI, PostgreSQL/PostGIS, Redis e Do
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jaderson1&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=jaderson1&theme=github_dark_dimmed)
+<div aligin ="Center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jaderson1&layout=compact&langs_count=4&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=jaderson1&layout=compact&langs_count=4&theme=github_dark_dimmed)
+<br>
+
+<img src ="https://github-stats-extended.vercel.app/api?username=jaderson1&theme=github_dark_dimmed"
+height="165" alt="Estatísticas do GitHub de Jaderson Olson"/>
+
+<img src ="https://github-stats-extended.vercel.app/api/top-langs?username=jaderson1&layout=compact&langs_count=4&theme=github_dark_dimmed"
+height="165" alt="Estatísticas do GitHub de Jaderson Olson"/>
+
+</div>
 
 ---
 
