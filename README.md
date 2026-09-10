@@ -30,19 +30,9 @@ Atualmente trabalho principalmente com **FastAPI, PostgreSQL/PostGIS, Redis e Do
 
 ## 📊 GitHub Stats
 
-<div align="center">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jaderson1&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=jaderson1&theme=github_dark_dimmed)
 
-<img
-  height="180"
-  src="./profile/stats.svg"
-/>
-
-<img
-  height="180"
-  src="./profile/top-langs.svg"
-/>
-
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jaderson1&layout=compact&langs_count=4&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=jaderson1&layout=compact&langs_count=4&theme=github_dark_dimmed)
 
 ---
 
@@ -132,14 +122,3 @@ Meu primeiro projeto utilizando **FastAPI**, criado durante minha evolução no 
 O objetivo do Fluida é facilitar a criação de interfaces adaptativas através de um sistema de layout flexível e reutilizável.
 
 🚧 **Em construção**
-
----
-
-# 🎯 Atualmente
-
-```text
-Backend          ████████████████████  FastAPI / Python
-Geospatial       ██████████████████░░  PostGIS
-Frontend         ███████████████░░░░░  React / TypeScript
-DevOps           █████████████░░░░░░░  Docker / Terraform
-Architecture     ████████████░░░░░░░░  APIs / Sistemas
