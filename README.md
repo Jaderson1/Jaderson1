@@ -2,7 +2,7 @@
 
 # Jaderson Olson
 
-**Backend · APIs · Geoprocessamento**
+**Full-Stack · APIs · Geoprocessamento**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1B33?style=flat-square&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/jadersonolson/)
 [![GitHub](https://img.shields.io/badge/GitHub-0E1B33?style=flat-square&logo=github&logoColor=4FC3F7)](https://github.com/Jaderson1)
