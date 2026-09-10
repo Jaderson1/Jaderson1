@@ -11,16 +11,16 @@
 
 <br>
 
+**Fluida** — biblioteca de layout adaptativo, agnóstica de framework, em monorepo com core e adapter para React · `TypeScript`<br>
+**Fluida Geo** — aplicação de turismo geoespacial da região trinacional de Foz do Iguaçu, em React/Vite com back-end FastAPI e PostgreSQL · `React` `FastAPI` `PostGIS`<br>
+**Dashboard ambiental** — visualização de dados georreferenciados com consultas espaciais em PostGIS e cache em Redis · `Python` `Dash`
+
+<br>
+
 Estudante de Ciência da Computação, último semestre. Estagiário na **Itaipu Parquetec**,
 onde desenvolvo APIs REST em Python/FastAPI e trabalho com dados geoespaciais em
 PostgreSQL/PostGIS. Antes disso, estágio em DevOps com Terraform, Ansible e CI/CD.
 Certificado Oracle Cloud Infrastructure Foundations.
-
-<br>
-
-**Fluida** — biblioteca de layout adaptativo, agnóstica de framework, em monorepo com core e adapter para React · `TypeScript`<br>
-**Fluida Geo** — aplicação de turismo geoespacial da região trinacional de Foz do Iguaçu, em React/Vite com back-end FastAPI e PostgreSQL · `React` `FastAPI` `PostGIS`<br>
-**Dashboard ambiental** — visualização de dados georreferenciados com consultas espaciais em PostGIS e cache em Redis · `Python` `Dash`
 
 <br>
 
