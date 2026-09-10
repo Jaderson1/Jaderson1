@@ -121,4 +121,8 @@ Meu primeiro projeto utilizando **FastAPI**, criado durante minha evolução no 
 
 O objetivo do Fluida é facilitar a criação de interfaces adaptativas através de um sistema de layout flexível e reutilizável.
 
+<<<<<<< HEAD
 🚧 **Em construção**
+=======
+🚧 **Em construção**
+>>>>>>> 9e78134 (Configurando o readme)
