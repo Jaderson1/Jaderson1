@@ -6,8 +6,8 @@
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=Jaderson1&show_icons=true&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" alt="Estatísticas do GitHub" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jaderson1&langs_count=5&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&text_color=C7D8EA" alt="Linguagens mais usadas" />
+<img src="https://github-stats-extended.vercel.app/api?username=Jaderson1&show_icons=true&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" height="200" alt="Estatísticas do GitHub" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jaderson1&layout=compact&langs_count=5&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&text_color=C7D8EA" height="200" alt="Linguagens mais usadas" />
 
 <br><br>
 
