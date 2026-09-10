@@ -1,19 +1,3 @@
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Jaderson1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaderson1&layout=compact&langs_count=8&theme=radical"
-  />
-
-</div>
-
 <div align="center">
 
 # 👋 Olá! Sou o Jaderson Manoel Lichtnow Olson
@@ -110,6 +94,27 @@ Hoje atuo como desenvolvedor Full Stack, construindo APIs geoespaciais na Itaipu
 ## 🔗 Vamos conversar
 
 <div align="center">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Jaderson1">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Jaderson1&show_icons=true&include_all_commits=true&count_private=true&rank_icon=default&theme=radical"
+  />
+</a>
+
+<a href="https://github.com/Jaderson1">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaderson1&layout=compact&langs_count=6&theme=radical"
+  />
+</a>
+
+</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadersonolson/)
 
