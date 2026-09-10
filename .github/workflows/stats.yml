@@ -1,8 +1,13 @@
 name: GitHub Stats
 
 on:
+  push:
+    branches:
+      - main
+
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
 
 jobs:
@@ -13,6 +18,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -31,11 +39,11 @@ jobs:
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add profile/*.svg
 
-          git commit -m "Update GitHub stats" || exit 0
+          git commit -m "chore: update GitHub stats" || exit 0
 
           git push
