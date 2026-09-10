@@ -1,10 +1,28 @@
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06B6D4&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Ola!+Eu+sou+o+Jaderson+Olson;Full+Stack+Developer+em+evolucao+constante;De+Slime+a+Full+Stack+Dev;Great+Sage+aprovou+este+commit)](https://github.com/Jaderson1)
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Jaderson1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaderson1&layout=compact&langs_count=8&theme=radical"
+  />
 
 </div>
 
+<div align="center">
+
 # 👋 Olá! Sou o Jaderson Manoel Lichtnow Olson
+
+### Full Stack Developer em evolução constante 🚀
+
+</div>
+
+---
 
 Desenvolvedor Full Stack focado em APIs, interfaces modernas e soluções escaláveis.
 
@@ -14,15 +32,35 @@ Desenvolvedor Full Stack focado em APIs, interfaces modernas e soluções escal�
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Jaderson1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaderson1&layout=compact&langs_count=8&theme=radical&hide_border=true"
+  />
+
+</div>
+
+---
+
 ## 🧬 Evolução
 
-Comecei escrevendo meus primeiros scripts em Python, sem entender muito bem o que estava fazendo. Depois descobri o FastAPI e passei a construir APIs de verdade — e daí não parei mais: fui absorvendo React, TypeScript, Docker, Terraform e Ansible pelo caminho. Hoje atuo como desenvolvedor Full Stack, construindo APIs geoespaciais na Itaipu Parquetec e desenvolvendo o **Fluida** nas horas vagas.
+Comecei escrevendo meus primeiros scripts em Python, sem entender muito bem o que estava fazendo. Depois descobri o FastAPI e passei a construir APIs de verdade — e daí não parei mais: fui absorvendo React, TypeScript, Docker, Terraform e Ansible pelo caminho.
+
+Hoje atuo como desenvolvedor Full Stack, construindo APIs geoespaciais na Itaipu Parquetec e desenvolvendo o **Fluida** nas horas vagas.
 
 ---
 
 ## ⚔️ Unique Skills (Tech Stack)
 
-**Back-end**
+### Back-end
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -30,18 +68,18 @@ Comecei escrevendo meus primeiros scripts em Python, sem entender muito bem o qu
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Dados & Geoespacial**
+### Dados & Geoespacial
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Mensageria**
+### Mensageria
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Front-end**
+### Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,13 +87,13 @@ Comecei escrevendo meus primeiros scripts em Python, sem entender muito bem o qu
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Infra & DevOps**
+### Infra & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-**Ferramentas**
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -71,8 +109,12 @@ Comecei escrevendo meus primeiros scripts em Python, sem entender muito bem o qu
 
 ## 🔗 Vamos conversar
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadersonolson/)
 
-<div align="center">
+<br>
+
 <sub>🟦 Feito com café e muito debug</sub>
+
 </div>
