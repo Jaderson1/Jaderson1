@@ -19,9 +19,6 @@
 <a href="https://github.com/Jaderson1/fluida-geo-frontend">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jaderson1&repo=fluida-geo-frontend&description_lines_count=2&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" alt="Fluida Geo — frontend" />
 </a>
-<a href="https://github.com/Jaderson1/fluida-geo-backend">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Jaderson1&repo=fluida-geo-backend&description_lines_count=2&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" alt="Fluida Geo — backend" />
-</a>
 </div>
 
 
