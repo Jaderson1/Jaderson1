@@ -9,19 +9,19 @@
 <img src="https://github-stats-extended.vercel.app/api?username=Jaderson1&show_icons=true&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" height="200" alt="Estatísticas do GitHub" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jaderson1&layout=compact&langs_count=5&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&text_color=C7D8EA" height="200" alt="Linguagens mais usadas" />
 
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1B33?style=flat-square&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/jadersonolson/)
-[![GitHub](https://img.shields.io/badge/GitHub-0E1B33?style=flat-square&logo=github&logoColor=4FC3F7)](https://github.com/Jaderson1)
-
-<br><br>
-
 <a href="https://github.com/Jaderson1/Fluida">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jaderson1&repo=Fluida&description_lines_count=2&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" alt="Fluida" />
 </a>
 <a href="https://github.com/Jaderson1/fluida-geo-frontend">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Jaderson1&repo=fluida-geo-frontend&description_lines_count=2&hide_border=true&bg_color=0E1B33&title_color=4FC3F7&icon_color=4FC3F7&text_color=C7D8EA" alt="Fluida Geo" />
 </a>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1B33?style=flat-square&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/jadersonolson/)
+[![GitHub](https://img.shields.io/badge/GitHub-0E1B33?style=flat-square&logo=github&logoColor=4FC3F7)](https://github.com/Jaderson1)
+
+<br><br>
 
 </div>
 
