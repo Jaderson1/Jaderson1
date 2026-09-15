@@ -2,7 +2,7 @@
 Jaderson Olson
 Full-Stack · APIs · Geoprocessamento
 <br>
-<img src="https://github-stats-extended.vercel.app/api?username=Jaderson1&show_icons=true&commits_year=2026&hide_border=true&bg_color=0B172A&title_color=66D9FF&icon_color=8BE9FD&text_color=D8F6FF" height="180" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Jaderson1&show_icons=true&hide_border=true&bg_color=0B172A&title_color=66D9FF&icon_color=8BE9FD&text_color=D8F6FF" height="180" alt="GitHub Stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jaderson1&layout=compact&langs_count=6&hide_border=true&bg_color=0B172A&title_color=66D9FF&text_color=D8F6FF" height="180" alt="Top Languages" />
 </div>
 
